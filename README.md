@@ -20,7 +20,7 @@ To run this project, ensure you have the following:
 * Visual Studio: You'll need Visual Studio installed to compile and run the project.
 * DirectX SDK: Make sure you have the DirectX SDK installed in your development environment.
 ### 2:
-Clone the Repository: Clone this repository to your local machine using the following command:
+Clone the Repository: Clone this repository to your local machine using the following command:<br>
 ```git clone https://github.com/BeHaVeZ/DirectX_Rendering.git```
 ### 3:
 Open the Solution: Navigate to the DirectX/source/ directory and open the DirectX.sln file in Visual Studio.
