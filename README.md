@@ -5,7 +5,7 @@ This project renders a CS model in a window with dynamic lighting, shading, and 
 Users can explore the scene with camera controls (WASD), while the model rotates. The project also implements post-processing effects like anti-aliasing for enhanced visual quality (F2). <br>
 
 ![cs_AK](https://github.com/BeHaVeZ/DirectX_Rendering/assets/56305376/47aab4d9-9c31-44cc-aceb-75b0ccffe841)<br>
-
+![Made With](https://img.shields.io/badge/Made_with-Visual_Studio-purple) ![C++](https://img.shields.io/badge/language-C%2B%2B-blue?logo=c%2B%2B) ![DirectX](https://img.shields.io/badge/Graphics_API-DirectX11-red) ![Status](https://img.shields.io/badge/Status-active-brightgreen)
 ## Key Features:
 
 🌟 Realistic 3D rendering using DirectX <br>
